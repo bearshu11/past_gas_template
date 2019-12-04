@@ -1,5 +1,6 @@
 # gas_template
-Typescriptを用いて開発する際のGoogle Apps Scriptの最小テンプレート  
+claspがTypescriptに対応したため、本レポジトリなしでも実行可能です。  
+Typescriptを用いて開発する際のGoogle Apps Scriptの最小テンプレート
 (English follows(in preparation))
 
 ## 利用技術
