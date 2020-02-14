@@ -1,5 +1,5 @@
 # gas_template
-claspがTypescriptに対応したため、本レポジトリなしでも実行可能です。  
+**claspがTypescriptに対応したため、本レポジトリなしでも実行可能です。**  
 Typescriptを用いて開発する際のGoogle Apps Scriptの最小テンプレート
 (English follows(in preparation))
 
